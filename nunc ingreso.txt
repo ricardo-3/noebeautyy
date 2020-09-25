@@ -1,0 +1,25 @@
+zoom usuario ID: 851 6678 3913
+
+https://github.com/ricardo-3/Estaciones-vm.git
+
+
+position :fix barra cabecera 
+
+relative 
+
+absoluto
+
+
+
+ utils- tendria todas las bariables y solo las llamariamos desde sas 
+
+presentacion.usuario@gmail.com	
+
+plan de consola 
+78146002020
+
+
+9am argentina 
+
+7 men 
+8.5 women
